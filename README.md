@@ -30,4 +30,4 @@ Requirement : You are free to use our jar to your projects but you must have the
 ### Java project 
 On the Java project you will can see our algorithm and how they are working. (The most part of the description is in French).
 ### Android project
-This is a simple android application with the API 23. In this app we use our jar to translate any sentence into a SVG file on which you can zoom, you can also save it into your smartphone.
+This is a simple android application with the API 23. In this app we use our jar to translate any sentence into a SVG file on which you can zoom.
